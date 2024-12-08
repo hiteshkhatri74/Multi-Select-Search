@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Multi-Select-Search/static/css/main.3588166a.css",
+    "main.js": "/Multi-Select-Search/static/js/main.0867b4ac.js",
+    "static/js/453.8f432884.chunk.js": "/Multi-Select-Search/static/js/453.8f432884.chunk.js",
+    "index.html": "/Multi-Select-Search/index.html",
+    "main.3588166a.css.map": "/Multi-Select-Search/static/css/main.3588166a.css.map",
+    "main.0867b4ac.js.map": "/Multi-Select-Search/static/js/main.0867b4ac.js.map",
+    "453.8f432884.chunk.js.map": "/Multi-Select-Search/static/js/453.8f432884.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3588166a.css",
+    "static/js/main.0867b4ac.js"
+  ]
+}
